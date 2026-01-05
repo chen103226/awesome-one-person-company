@@ -1,0 +1,1 @@
+# awesome-one-person-company
