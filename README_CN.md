@@ -1,8 +1,16 @@
-# Awesome One-Person Company / 一人公司精选清单
+# 一人公司精选清单
+
+<p align="center">
+  <img src="assets/images/hero.jpg" alt="一人公司主图" width="100%" />
+</p>
+
+<p align="center">
+  <a href="README_CN.md">中文</a> | <a href="README.md">英文</a>
+</p>
 
 > 面向“一人公司”的中英双语精选清单（本页为中文），涵盖人物、案例、书籍、工具与方法论。
 
-向传统 awesome 清单致敬，聚焦**真实产品、真实收入与真实故事**。
+向传统精选清单致敬，聚焦**真实产品、真实收入与真实故事**。
 
 ---
 
@@ -39,7 +47,7 @@
 
 ## 人物
 
-### 软件与 SaaS
+### 软件与软件即服务
 - **Pieter Levels** – [Nomad List](https://nomadlist.com/), [Remote OK](https://remoteok.com/)
 - **Jon Yongfook** – [Bannerbear](https://www.bannerbear.com/)
 - **Marc Köhlbrugge** – [WIP](https://wip.co/), [Startup Jobs](https://startup.jobs/)
@@ -66,12 +74,12 @@
 
 ## 案例研究
 
-- **Pieter Levels** – [Nomad List in public](https://nomadlist.com/open)
-- **Daniel Vassallo** – [Small Bets archive](https://smallbets.co/archive)
+- **Pieter Levels** – [公开构建与运营记录](https://nomadlist.com/open)
+- **Daniel Vassallo** – [Small Bets 文章归档](https://smallbets.co/archive)
 - **Levels.io** – [作品集与产品组合](https://levels.io/)
-- **Transistor** – [产品与定价故事](https://transistor.fm/pricing/)
+- **Transistor** – [产品与定价介绍](https://transistor.fm/pricing/)
 - **Tiny Pilot** – [单人硬件产品公司](https://tinypilotkvm.com/)
-- **Indie Hackers Interviews** – [创始人访谈](https://www.indiehackers.com/interviews)
+- **Indie Hackers 访谈** – [创始人访谈](https://www.indiehackers.com/interviews)
 
 ---
 
@@ -94,13 +102,13 @@
 
 - **Stratechery** – [Ben Thompson](https://stratechery.com/)
 - **Divinations** – [Ben Thompson](https://stratechery.com/category/divinations/)
-- **Levels.io Blog** – [Levels.io](https://levels.io/blog/)
+- **Levels.io 博客** – [Levels.io](https://levels.io/blog/)
 - **Tiny Empires** – [Sahil Lavingia](https://tinyempires.substack.com/)
 - **Indie Hackers** – [社区与故事](https://www.indiehackers.com/)
 - **Bootstrapped Founder** – [Arvid Kahl](https://bootstrappedfounder.com/)
 - **MicroConf** – [创始人故事](https://microconf.com/)
-- **TinySeed Blog** – [TinySeed](https://tinyseed.com/blog)
-- **Basecamp Blog** – [Basecamp](https://basecamp.com/blog)
+- **TinySeed 博客** – [TinySeed](https://tinyseed.com/blog)
+- **Basecamp 博客** – [Basecamp](https://basecamp.com/blog)
 
 ---
 
@@ -168,7 +176,7 @@
 
 ## 商业模式
 
-- Micro SaaS
+- 微型软件即服务
 - 付费通讯
 - 一次性付费软件
 - 数字产品（模板、课程、资源包）
@@ -216,17 +224,17 @@
 - *一人公司* – [Company of One](https://www.pauljarvis.com/books/)
 - *最小化创业者* – [The Minimalist Entrepreneur](https://www.sahillavingia.com/book)
 - *精益创业* – [The Lean Startup](https://theleanstartup.com/)
-- *The Mom Test（妈妈测试）* – [The Mom Test](https://momtestbook.com/)
-- *Rework（重来）* – [Basecamp Books](https://basecamp.com/books)
+- *妈妈测试* – [The Mom Test](https://momtestbook.com/)
+- *重来* – [Basecamp Books](https://basecamp.com/books)
 
 ---
 
 ## 贡献
 
-请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
+请阅读 [贡献指南](CONTRIBUTING.md)。
 
 ---
 
 ## 许可
 
-本清单以 [MIT License](LICENSE) 方式发布。
+本清单以 [MIT 许可](LICENSE) 方式发布。
