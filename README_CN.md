@@ -1,45 +1,45 @@
-# Awesome One-Person Company
+# Awesome One-Person Company / 一人公司精选清单
 
-> A curated, structured list of people, books, tools, and resources for building sustainable and profitable one-person companies.
+> 面向“一人公司”的中英双语精选清单（本页为中文），涵盖人物、案例、书籍、工具与方法论。
 
-Inspired by the awesome list tradition. Focused on **real products, real revenue, and real stories**.
-
----
-
-## Contents
-
-- [What is a One-Person Company?](#what-is-a-one-person-company)
-- [People](#people)
-- [Case Studies](#case-studies)
-- [Books](#books)
-- [Blogs & Newsletters](#blogs--newsletters)
-- [Tools & Stacks](#tools--stacks)
-- [Communities](#communities)
-- [Business Models](#business-models)
-- [Ideas & Validation](#ideas--validation)
-- [Mental Models & Essays](#mental-models--essays)
-- [Chinese Resources](#chinese-resources)
-- [Contributing](#contributing)
-- [License](#license)
+向传统 awesome 清单致敬，聚焦**真实产品、真实收入与真实故事**。
 
 ---
 
-## What is a One-Person Company?
+## 目录
 
-A one-person company is a business that:
-
-- Can be built and operated by a single individual
-- Generates sustainable revenue
-- Leverages software, content, or leverage rather than labor
-- Prioritizes autonomy over scale
-
-This list focuses on **indie founders who build calm, profitable businesses**, not venture-backed startups.
+- [什么是一人公司？](#什么是一人公司)
+- [人物](#人物)
+- [案例研究](#案例研究)
+- [书籍](#书籍)
+- [博客与通讯](#博客与通讯)
+- [工具与技术栈](#工具与技术栈)
+- [社区](#社区)
+- [商业模式](#商业模式)
+- [想法与验证](#想法与验证)
+- [心智模型与文章](#心智模型与文章)
+- [中文资源](#中文资源)
+- [贡献](#贡献)
+- [许可](#许可)
 
 ---
 
-## People
+## 什么是一人公司？
 
-### SaaS & Software
+一人公司是指：
+
+- 由单人即可构建与运营
+- 有可持续收入
+- 依赖软件、内容或杠杆，而非雇佣劳动力
+- 追求自主与自由，而非盲目规模化
+
+本清单关注**独立创业者与可持续盈利的小生意**，而非风投驱动的高速扩张公司。
+
+---
+
+## 人物
+
+### 软件与 SaaS
 - **Pieter Levels** – [Nomad List](https://nomadlist.com/), [Remote OK](https://remoteok.com/)
 - **Jon Yongfook** – [Bannerbear](https://www.bannerbear.com/)
 - **Marc Köhlbrugge** – [WIP](https://wip.co/), [Startup Jobs](https://startup.jobs/)
@@ -47,7 +47,7 @@ This list focuses on **indie founders who build calm, profitable businesses**, n
 - **Rob Walling** – [TinySeed](https://tinyseed.com/), [MicroConf](https://microconf.com/)
 - **Nathan Barry** – [ConvertKit](https://convertkit.com/)
 
-### Content & Education
+### 内容与教育
 - **Justin Jackson** – [Transistor](https://transistor.fm/), [MegaMaker](https://megamaker.co/)
 - **Daniel Vassallo** – [Small Bets](https://smallbets.co/)
 - **Sahil Lavingia** – [Gumroad](https://gumroad.com/)
@@ -55,7 +55,7 @@ This list focuses on **indie founders who build calm, profitable businesses**, n
 - **Derek Sivers** – [sive.rs](https://sive.rs/)
 - **Paul Jarvis** – [Paul Jarvis](https://www.pauljarvis.com/)
 
-### Open Source / Dev Tools
+### 开源与开发者工具
 - **Mitchell Hashimoto** – [HashiCorp](https://www.hashicorp.com/)
 - **Steve Francia** – [Hugo](https://gohugo.io/)
 - **Guillermo Rauch** – [Vercel](https://vercel.com/)
@@ -64,18 +64,18 @@ This list focuses on **indie founders who build calm, profitable businesses**, n
 
 ---
 
-## Case Studies
+## 案例研究
 
 - **Pieter Levels** – [Nomad List in public](https://nomadlist.com/open)
 - **Daniel Vassallo** – [Small Bets archive](https://smallbets.co/archive)
-- **Levels.io** – [Portfolio of products](https://levels.io/)
-- **Transistor** – [Transparent pricing and story](https://transistor.fm/pricing/)
-- **Tiny Pilot** – [Solo creator business](https://tinypilotkvm.com/)
-- **Indie Hackers Interviews** – [Founder interviews](https://www.indiehackers.com/interviews)
+- **Levels.io** – [作品集与产品组合](https://levels.io/)
+- **Transistor** – [产品与定价故事](https://transistor.fm/pricing/)
+- **Tiny Pilot** – [单人硬件产品公司](https://tinypilotkvm.com/)
+- **Indie Hackers Interviews** – [创始人访谈](https://www.indiehackers.com/interviews)
 
 ---
 
-## Books
+## 书籍
 
 - *Company of One* – [Paul Jarvis](https://www.pauljarvis.com/books/)
 - *The Minimalist Entrepreneur* – [Sahil Lavingia](https://www.sahillavingia.com/book)
@@ -90,63 +90,63 @@ This list focuses on **indie founders who build calm, profitable businesses**, n
 
 ---
 
-## Blogs & Newsletters
+## 博客与通讯
 
 - **Stratechery** – [Ben Thompson](https://stratechery.com/)
 - **Divinations** – [Ben Thompson](https://stratechery.com/category/divinations/)
 - **Levels.io Blog** – [Levels.io](https://levels.io/blog/)
 - **Tiny Empires** – [Sahil Lavingia](https://tinyempires.substack.com/)
-- **Indie Hackers** – [Community + stories](https://www.indiehackers.com/)
+- **Indie Hackers** – [社区与故事](https://www.indiehackers.com/)
 - **Bootstrapped Founder** – [Arvid Kahl](https://bootstrappedfounder.com/)
-- **MicroConf** – [Founder stories](https://microconf.com/)
+- **MicroConf** – [创始人故事](https://microconf.com/)
 - **TinySeed Blog** – [TinySeed](https://tinyseed.com/blog)
 - **Basecamp Blog** – [Basecamp](https://basecamp.com/blog)
 
 ---
 
-## Tools & Stacks
+## 工具与技术栈
 
-### Website & Landing Page
+### 官网与落地页
 - [Carrd](https://carrd.co/)
 - [Framer](https://www.framer.com/)
 - [Webflow](https://webflow.com/)
 - [Notion](https://www.notion.so/) + [Super](https://super.so/)
 
-### Payments
+### 支付
 - [Stripe](https://stripe.com/)
 - [Paddle](https://www.paddle.com/)
 - [Lemon Squeezy](https://www.lemonsqueezy.com/)
 
-### Analytics
+### 分析
 - [Plausible](https://plausible.io/)
 - [PostHog](https://posthog.com/)
 - [Fathom](https://usefathom.com/)
 
-### Email & CRM
+### 邮件与客户关系
 - [ConvertKit](https://convertkit.com/)
 - [Buttondown](https://buttondown.email/)
 - [MailerLite](https://www.mailerlite.com/)
 
-### Hosting & Infrastructure
+### 托管与基础设施
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 - [Fly.io](https://fly.io/)
 - [Render](https://render.com/)
 
-### Databases
+### 数据库
 - [Supabase](https://supabase.com/)
 - [PlanetScale](https://planetscale.com/)
 
-### Support & Customer Chat
+### 客服与在线支持
 - [Help Scout](https://www.helpscout.com/)
 - [Crisp](https://crisp.chat/)
 
-### Automation
+### 自动化
 - [Zapier](https://zapier.com/)
 - [Make](https://www.make.com/)
 - [n8n](https://n8n.io/)
 
-### Distribution
+### 分发
 - [X (Twitter)](https://x.com/)
 - [Reddit](https://www.reddit.com/)
 - [Product Hunt](https://www.producthunt.com/)
@@ -154,7 +154,7 @@ This list focuses on **indie founders who build calm, profitable businesses**, n
 
 ---
 
-## Communities
+## 社区
 
 - [Indie Hackers](https://www.indiehackers.com/)
 - [MicroConf](https://microconf.com/)
@@ -166,28 +166,28 @@ This list focuses on **indie founders who build calm, profitable businesses**, n
 
 ---
 
-## Business Models
+## 商业模式
 
 - Micro SaaS
-- Paid Newsletter
-- One-time Purchase Software
-- Digital Products (templates, courses, kits)
-- Sponsorship-based Content
-- Consulting + Productized Service
+- 付费通讯
+- 一次性付费软件
+- 数字产品（模板、课程、资源包）
+- 赞助型内容
+- 咨询与产品化服务
 
 ---
 
-## Ideas & Validation
+## 想法与验证
 
-- Talk to users before building
-- Look for repetitive complaints in public forums
-- Start with a narrow audience
-- Validate with pre-sales
-- Build a tiny MVP and charge early
+- 先访谈，再开发
+- 找到高频抱怨
+- 从细分人群切入
+- 预售验证需求
+- 先小后大，尽早收费
 
 ---
 
-## Mental Models & Essays
+## 心智模型与文章
 
 - [“Do Things That Don't Scale” – Paul Graham](https://www.paulgraham.com/ds.html)
 - [“Startups = Growth” – Paul Graham](https://www.paulgraham.com/growth.html)
@@ -198,21 +198,21 @@ This list focuses on **indie founders who build calm, profitable businesses**, n
 
 ---
 
-## Chinese Resources
+## 中文资源
 
-### People & Communities
+### 人物与社区
 - [独立开发者社区 INDEV](https://indev.cn/)
 - [电鸭](https://eleduck.com/)
 - [即刻 Jike](https://web.okjike.com/)
 - [掘金](https://juejin.cn/)
 - [开源中国](https://www.oschina.net/)
 
-### Blogs & Newsletters
+### 博客与通讯
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - [少数派](https://sspai.com/)
 - [有知有行](https://youzhiyouxing.cn/)
 
-### Books
+### 书籍
 - *一人公司* – [Company of One](https://www.pauljarvis.com/books/)
 - *最小化创业者* – [The Minimalist Entrepreneur](https://www.sahillavingia.com/book)
 - *精益创业* – [The Lean Startup](https://theleanstartup.com/)
@@ -221,12 +221,12 @@ This list focuses on **indie founders who build calm, profitable businesses**, n
 
 ---
 
-## Contributing
+## 贡献
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md).
+请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ---
 
-## License
+## 许可
 
-This list is available under the [MIT License](LICENSE).
+本清单以 [MIT License](LICENSE) 方式发布。
