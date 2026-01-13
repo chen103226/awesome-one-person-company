@@ -1,53 +1,54 @@
-# 一人公司精选清单
+# Awesome One-Person Company
 
 <p align="center">
-  <img src="assets/images/hero.jpg" alt="一人公司主图" width="100%" />
+  <img src="assets/images/hero.jpg" alt="One-person company hero" width="100%" />
 </p>
 
 <p align="center">
-  <a href="README.md">中文</a> | <a href="README_EN.md">英文</a>
+  <a href="README_EN.md">English</a> | <a href="README.md">中文</a>
 </p>
 
-> 面向“一人公司”的中英双语精选清单（本页为中文），涵盖人物、案例、书籍、工具与方法论。
+> A curated, structured list of people, books, tools, and resources for building sustainable and profitable one-person companies.
 
-向传统精选清单致敬，聚焦**真实产品、真实收入与真实故事**。
-
----
-
-## 目录
-
-- [什么是一人公司？](#什么是一人公司)
-- [人物](#人物)
-- [案例研究](#案例研究)
-- [书籍](#书籍)
-- [博客与通讯](#博客与通讯)
-- [工具与技术栈](#工具与技术栈)
-- [社区](#社区)
-- [商业模式](#商业模式)
-- [想法与验证](#想法与验证)
-- [心智模型与文章](#心智模型与文章)
-- [中文资源](#中文资源)
-- [贡献](#贡献)
-- [许可](#许可)
+Inspired by the awesome list tradition. Focused on **real products, real revenue, and real stories**.
 
 ---
 
-## 什么是一人公司？
+## Contents
 
-一人公司是指：
-
-- 由单人即可构建与运营
-- 有可持续收入
-- 依赖软件、内容或杠杆，而非雇佣劳动力
-- 追求自主与自由，而非盲目规模化
-
-本清单关注**独立创业者与可持续盈利的小生意**，而非风投驱动的高速扩张公司。
+- [What is a One-Person Company?](#what-is-a-one-person-company)
+- [People](#people)
+- [Case Studies](#case-studies)
+- [Books](#books)
+- [Blogs &amp; Newsletters](#blogs--newsletters)
+- [Tools &amp; Stacks](#tools--stacks)
+- [Communities](#communities)
+- [Business Models](#business-models)
+- [Ideas &amp; Validation](#ideas--validation)
+- [Mental Models &amp; Essays](#mental-models--essays)
+- [Chinese Resources](#chinese-resources)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
-## 人物
+## What is a One-Person Company?
 
-### 软件与软件即服务
+A one-person company is a business that:
+
+- Can be built and operated by a single individual
+- Generates sustainable revenue
+- Leverages software, content, or leverage rather than labor
+- Prioritizes autonomy over scale
+
+This list focuses on **indie founders who build calm, profitable businesses**, not venture-backed startups.
+
+---
+
+## People
+
+### SaaS & Software
+
 - **Pieter Levels** – [Nomad List](https://nomadlist.com/), [Remote OK](https://remoteok.com/)
 - **Jon Yongfook** – [Bannerbear](https://www.bannerbear.com/)
 - **Marc Köhlbrugge** – [WIP](https://wip.co/), [Startup Jobs](https://startup.jobs/)
@@ -55,7 +56,8 @@
 - **Rob Walling** – [TinySeed](https://tinyseed.com/), [MicroConf](https://microconf.com/)
 - **Nathan Barry** – [ConvertKit](https://convertkit.com/)
 
-### 内容与教育
+### Content & Education
+
 - **Justin Jackson** – [Transistor](https://transistor.fm/), [MegaMaker](https://megamaker.co/)
 - **Daniel Vassallo** – [Small Bets](https://smallbets.co/)
 - **Sahil Lavingia** – [Gumroad](https://gumroad.com/)
@@ -63,7 +65,8 @@
 - **Derek Sivers** – [sive.rs](https://sive.rs/)
 - **Paul Jarvis** – [Paul Jarvis](https://www.pauljarvis.com/)
 
-### 开源与开发者工具
+### Open Source / Dev Tools
+
 - **Mitchell Hashimoto** – [HashiCorp](https://www.hashicorp.com/)
 - **Steve Francia** – [Hugo](https://gohugo.io/)
 - **Guillermo Rauch** – [Vercel](https://vercel.com/)
@@ -72,18 +75,18 @@
 
 ---
 
-## 案例研究
+## Case Studies
 
-- **Pieter Levels** – [公开构建与运营记录](https://nomadlist.com/open)
-- **Daniel Vassallo** – [Small Bets 文章归档](https://smallbets.co/archive)
-- **Levels.io** – [作品集与产品组合](https://levels.io/)
-- **Transistor** – [产品与定价介绍](https://transistor.fm/pricing/)
-- **Tiny Pilot** – [单人硬件产品公司](https://tinypilotkvm.com/)
-- **Indie Hackers 访谈** – [创始人访谈](https://www.indiehackers.com/interviews)
+- **Pieter Levels** – [Nomad List in public](https://nomadlist.com/open)
+- **Daniel Vassallo** – [Small Bets archive](https://smallbets.co/archive)
+- **Levels.io** – [Portfolio of products](https://levels.io/)
+- **Transistor** – [Pricing and product overview](https://transistor.fm/pricing/)
+- **Tiny Pilot** – [Solo hardware business](https://tinypilotkvm.com/)
+- **Indie Hackers Interviews** – [Founder interviews](https://www.indiehackers.com/interviews)
 
 ---
 
-## 书籍
+## Books
 
 - *Company of One* – [Paul Jarvis](https://www.pauljarvis.com/books/)
 - *The Minimalist Entrepreneur* – [Sahil Lavingia](https://www.sahillavingia.com/book)
@@ -98,63 +101,72 @@
 
 ---
 
-## 博客与通讯
+## Blogs & Newsletters
 
 - **Stratechery** – [Ben Thompson](https://stratechery.com/)
 - **Divinations** – [Ben Thompson](https://stratechery.com/category/divinations/)
-- **Levels.io 博客** – [Levels.io](https://levels.io/blog/)
+- **Levels.io Blog** – [Levels.io](https://levels.io/blog/)
 - **Tiny Empires** – [Sahil Lavingia](https://tinyempires.substack.com/)
-- **Indie Hackers** – [社区与故事](https://www.indiehackers.com/)
+- **Indie Hackers** – [Community + stories](https://www.indiehackers.com/)
 - **Bootstrapped Founder** – [Arvid Kahl](https://bootstrappedfounder.com/)
-- **MicroConf** – [创始人故事](https://microconf.com/)
-- **TinySeed 博客** – [TinySeed](https://tinyseed.com/blog)
-- **Basecamp 博客** – [Basecamp](https://basecamp.com/blog)
+- **MicroConf** – [Founder stories](https://microconf.com/)
+- **TinySeed Blog** – [TinySeed](https://tinyseed.com/blog)
+- **Basecamp Blog** – [Basecamp](https://basecamp.com/blog)
 
 ---
 
-## 工具与技术栈
+## Tools & Stacks
 
-### 官网与落地页
+### Website & Landing Page
+
 - [Carrd](https://carrd.co/)
 - [Framer](https://www.framer.com/)
 - [Webflow](https://webflow.com/)
 - [Notion](https://www.notion.so/) + [Super](https://super.so/)
 
-### 支付
+### Payments
+
 - [Stripe](https://stripe.com/)
 - [Paddle](https://www.paddle.com/)
 - [Lemon Squeezy](https://www.lemonsqueezy.com/)
 
-### 分析
+### Analytics
+
 - [Plausible](https://plausible.io/)
 - [PostHog](https://posthog.com/)
 - [Fathom](https://usefathom.com/)
 
-### 邮件与客户关系
+### Email & CRM
+
 - [ConvertKit](https://convertkit.com/)
 - [Buttondown](https://buttondown.email/)
 - [MailerLite](https://www.mailerlite.com/)
 
-### 托管与基础设施
+### Hosting & Infrastructure
+
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 - [Fly.io](https://fly.io/)
 - [Render](https://render.com/)
 
-### 数据库
+### Databases
+
 - [Supabase](https://supabase.com/)
 - [PlanetScale](https://planetscale.com/)
 
-### 客服与在线支持
+### Support & Customer Chat
+
 - [Help Scout](https://www.helpscout.com/)
 - [Crisp](https://crisp.chat/)
 
-### 自动化
+### Automation
+
 - [Zapier](https://zapier.com/)
 - [Make](https://www.make.com/)
 - [n8n](https://n8n.io/)
 
-### 分发
+### Distribution
+
 - [X (Twitter)](https://x.com/)
 - [Reddit](https://www.reddit.com/)
 - [Product Hunt](https://www.producthunt.com/)
@@ -162,7 +174,7 @@
 
 ---
 
-## 社区
+## Communities
 
 - [Indie Hackers](https://www.indiehackers.com/)
 - [MicroConf](https://microconf.com/)
@@ -174,30 +186,30 @@
 
 ---
 
-## 商业模式
+## Business Models
 
-- 微型软件即服务
-- 付费通讯
-- 一次性付费软件
-- 数字产品（模板、课程、资源包）
-- 赞助型内容
-- 咨询与产品化服务
-
----
-
-## 想法与验证
-
-- 先访谈，再开发
-- 找到高频抱怨
-- 从细分人群切入
-- 预售验证需求
-- 先小后大，尽早收费
+- Micro SaaS
+- Paid Newsletter
+- One-time Purchase Software
+- Digital Products (templates, courses, kits)
+- Sponsorship-based Content
+- Consulting + Productized Service
 
 ---
 
-## 心智模型与文章
+## Ideas & Validation
 
-- [“Do Things That Don't Scale” – Paul Graham](https://www.paulgraham.com/ds.html)
+- Talk to users before building
+- Look for repetitive complaints in public forums
+- Start with a narrow audience
+- Validate with pre-sales
+- Build a tiny MVP and charge early
+
+---
+
+## Mental Models & Essays
+
+- [“Do Things That Don&#39;t Scale” – Paul Graham](https://www.paulgraham.com/ds.html)
 - [“Startups = Growth” – Paul Graham](https://www.paulgraham.com/growth.html)
 - [“Default Alive or Default Dead” – Paul Graham](https://www.paulgraham.com/aord.html)
 - [“Tiny Bets” – Sahil Lavingia](https://sahillavingia.com/tiny-bets)
@@ -206,35 +218,38 @@
 
 ---
 
-## 中文资源
+## Chinese Resources
 
-### 人物与社区
-- [独立开发者社区 INDEV](https://indev.cn/)
-- [电鸭](https://eleduck.com/)
-- [即刻 Jike](https://web.okjike.com/)
-- [掘金](https://juejin.cn/)
-- [开源中国](https://www.oschina.net/)
+### People & Communities
 
-### 博客与通讯
-- [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
-- [少数派](https://sspai.com/)
-- [有知有行](https://youzhiyouxing.cn/)
+- [INDEV (Independent Developer Community)](https://indev.cn/)
+- [Eleduck](https://eleduck.com/)
+- [Jike](https://web.okjike.com/)
+- [Juejin](https://juejin.cn/)
+- [OSChina](https://www.oschina.net/)
 
-### 书籍
-- *一人公司* – [Company of One](https://www.pauljarvis.com/books/)
-- *最小化创业者* – [The Minimalist Entrepreneur](https://www.sahillavingia.com/book)
-- *精益创业* – [The Lean Startup](https://theleanstartup.com/)
-- *妈妈测试* – [The Mom Test](https://momtestbook.com/)
-- *重来* – [Basecamp Books](https://basecamp.com/books)
+### Blogs & Newsletters
 
----
+- [Ruanyifeng&#39;s Blog](https://www.ruanyifeng.com/blog/)
+- [SSPAI](https://sspai.com/)
+- [Youzhiyouxing](https://youzhiyouxing.cn/)
 
-## 贡献
+### Books
 
-请阅读 [贡献指南](CONTRIBUTING.md)。
+- *Company of One (Chinese edition)* – [Company of One](https://www.pauljarvis.com/books/)
+- *The Minimalist Entrepreneur (Chinese edition)* – [The Minimalist Entrepreneur](https://www.sahillavingia.com/book)
+- *The Lean Startup (Chinese edition)* – [The Lean Startup](https://theleanstartup.com/)
+- *The Mom Test (Chinese edition)* – [The Mom Test](https://momtestbook.com/)
+- *Rework (Chinese edition)* – [Basecamp Books](https://basecamp.com/books)
 
 ---
 
-## 许可
+## Contributing
 
-本清单以 [MIT 许可](LICENSE) 方式发布。
+Please see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
+## License
+
+This list is available under the [MIT License](LICENSE).
