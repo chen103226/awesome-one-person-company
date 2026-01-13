@@ -717,7 +717,7 @@ Template: PHP模板
 
 ### 关键概念
 
-<details>
+<details open>
 <summary><b>💰 商业模式选择</b></summary>
 
 **一人公司最适合的6种商业模式：**
