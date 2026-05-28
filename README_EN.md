@@ -705,6 +705,7 @@ Template: PHP templates
 > 💡 Key articles that change perception
 
 ### Must-Read Articles
+- [The One-Person Software Company: An Honest Capability Map](https://lab.aidevos.ai/one-person-company) - An engineering assessment of what AI actually handles solo, what you still have to own, and what breaks first at scale. Capability map: what AI delegates well / what requires judgment / what breaks first / minimum-viable solo stack. By AI Native Engineering (lab.aidevos.ai).
 
 | Title                                    | Author            | Core Argument              | Link                                              |
 | --------------------------------------- | --------------- | -------------------------- | ------------------------------------------------- |
