@@ -518,6 +518,8 @@ Template: PHP模板
 
 **💡 独立开发者首选**: Stripe（国际） + Lemon Squeezy（数字商品）
 
+> 📌 **中国/非美国出海开发者使用 Stripe 前提**：Stripe 需要美国公司主体。[LLC Class](https://llcclass.com) 提供一站式 [Wyoming LLC 注册](https://llcclass.com/wyoming)，含 [注册代理（Registered Agent）](https://llcclass.com/what-is-llc-registered-agent) 和 EIN，注册完成即可申请 Stripe 与 Mercury 银行账户。
+
 ### 📊 数据分析
 
 | 工具                                             | 类型         | 定价         | 特点     |
