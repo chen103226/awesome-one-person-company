@@ -506,6 +506,18 @@ Template: PHP模板
 | [Upstash](https://upstash.com/)         | Redis / Kafka      | 10K命令/天 | 缓存 / Queue |
 | [Turso](https://turso.tech/)            | SQLite (分布式)    | 500MB      | Edge应用     |
 
+### 🏛️ 公司注册与合规
+
+非美国创始人需要美国实体才能接入 Stripe / Mercury，以下是主流服务对比：
+
+| 服务                                                         | 价格       | 优点                                           | 缺点         | 注册州    |
+| ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------ | --------- |
+| [LLC Class](https://llcclass.com/wyoming)                    | $199起     | 含[注册代理](https://llcclass.com/what-is-llc-registered-agent)、EIN、运营协议，一站式开通 Stripe/Mercury | 仅 LLC      | 🇺🇸 怀俄明 |
+| [Stripe Atlas](https://stripe.com/atlas)                     | $500一次   | 品牌背书强，含银行账户开设                     | 费用较高     | 🇺🇸 特拉华 |
+| [Doola](https://www.doola.com/)                              | $297起/年  | 中文友好，含合规提醒                           | 年费持续     | 🇺🇸 怀俄明/特拉华 |
+
+**💡 推荐**: 预算有限选 LLC Class（含 EIN 可直接开 Stripe），需要 VC 融资选 Stripe Atlas（特拉华 C-Corp）
+
 ### 💳 支付与订阅
 
 | 平台                                    | 费率         | 优点     | 缺点       | 适合地区  |
