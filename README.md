@@ -645,6 +645,7 @@ Template: PHP模板
 | **Justin Jackson**  | SaaS创业         | 周更     | [Blog](https://justinjackson.ca/)                 |
 | **Nathan Barry**    | 创作者经济       | 周更     | [Blog](https://nathanbarry.com/)                  |
 | **Ben Thompson**    | 科技商业分析     | 周3更    | [Stratechery](https://stratechery.com/)           |
+| **One Person Company** | 一人公司技能库 | 持续更新 | [Blog](https://onepersoncompany.com/) |
 
 ### 中文博客
 
