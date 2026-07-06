@@ -565,6 +565,12 @@ Template: PHP templates
 | [Tawk.to](https://www.tawk.to/)   | Live chat  | Completely free | Limited budget   |
 | [Plain](https://plain.com/)       | Support tickets | Free-$29/month | Technical support |
 
+### 🔧 Online Toolbox
+
+| Tool                                    | Description              | Pricing | Recommended For  |
+| --------------------------------------- | ------------------------ | ------- | ---------------- |
+| [DevBox Tools](https://devbox.tools/)   | 58+ free browser-based dev & SEO tools | Free    | Developer daily tools |
+
 ### 🚀 Hosting & Deployment
 
 | Platform                                   | Suitable Type   | Free Tier   | Advantages   |
