@@ -547,6 +547,7 @@ Template: PHP模板
 | [n8n](https://n8n.io/)        | 开源自动化   | 自托管免费 | 技术用户   |
 
 ### 🎨 AI工具箱
+- [ReviewPilot](https://lijustin655.github.io/review-pilot/) - Free AI review analysis for e-commerce sellers. Paste product reviews, get top complaint reasons, sentiment breakdown, and improvement actions in 30 seconds.
 
 | 工具                               | 功能       | 定价       | 推荐指数   |
 | ---------------------------------- | ---------- | ---------- | ---------- |
