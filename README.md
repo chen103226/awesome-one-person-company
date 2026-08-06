@@ -653,6 +653,7 @@ Template: PHP模板
 | **阮一峰**     | [博客](https://ruanyifeng.com/blog/) | 技术+创业     | 科技爱好者周刊 |
 | **Moonvy月维** | [即刻](https://okjike.com/u/moonvy)  | 设计+独立开发 | 设计师视角     |
 | **Peng Jie**   | [Blog](https://pengjie.dev/)         | 独立开发      | 技术实战       |
+| **捻墨**       | [博客](https://dyy.nianmo.top/)      | 小红书运营+接单 | 同城获客实战复盘 |
 
 ### 🔔 Newsletter推荐
 
