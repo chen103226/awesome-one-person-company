@@ -518,6 +518,10 @@ Template: PHP模板
 
 **💡 独立开发者首选**: Stripe（国际） + Lemon Squeezy（数字商品）
 
+### 🧾 发票与收据
+
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) — 免费浏览器发票/收据生成器（打印或保存 PDF，无需注册）。[商业授权 (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-one-person-company-v1) 含白标 PDF、批量 CLI 与模板。开源。
+
 ### 📊 数据分析
 
 | 工具                                             | 类型         | 定价         | 特点     |
