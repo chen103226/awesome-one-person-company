@@ -660,7 +660,7 @@ Template: PHP模板
 | ------------------------ | ---- | ------ | ----------- | -------------------------------------- |
 | Indie Hackers Newsletter | 🇺🇸 | 周     | 案例访谈    | [订阅](https://indiehackers.com/)         |
 | Small Bets               | 🇺🇸 | 周     | 多元化收入  | [订阅](https://smallbets.co/)             |
-| Tiny Empires             | 🇺🇸 | 周     | Gumroad创业 | [订阅](https://tinyempires.substack.com/) |
+| ExtraHustles Weekly      | 🇺🇸 | 周     | 边际收入实战 | [订阅](https://extrahustles.com/newsletter) |
 | 湾区日报                 | 🇨🇳 | 工作日 | 技术创业    | [订阅](https://wanqu.co/)                 |
 
 ---
