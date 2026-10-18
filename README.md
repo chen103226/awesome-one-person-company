@@ -437,6 +437,7 @@ Platform: Windows
 | [Webflow](https://webflow.com/)     | 复杂交互网站   | $14-39/月 | ⭐⭐⭐⭐   | 中       |
 | [Carrd](https://carrd.co/)          | 超简单单页     | $9-49/年  | ⭐⭐⭐⭐   | 极低     |
 | [Super](https://super.so/) + Notion | Notion → 网站 | $12/月    | ⭐⭐⭐⭐   | 极低     |
+| [Helmpages](https://helmpages.com/) | 小企业与独立专业人士官网，发消息即可建站和更新 | 付费，含免费试用 | — | 极低 |
 
 **💡 Pieter Levels推荐**: 直接手写HTML + Tailwind CSS（最大控制权）
 
