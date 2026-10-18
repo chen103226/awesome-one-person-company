@@ -513,6 +513,7 @@ Template: PHP模板
 | [Stripe](https://stripe.com/)              | 2.9% + $0.30 | 功能强大 | 中国支持差 | 🌍 国际   |
 | [Lemon Squeezy](https://lemonsqueezy.com/) | 5% + 交易费  | 一站式   | 费率略高   | 🌍 国际   |
 | [Paddle](https://paddle.com/)              | 5% + $0.50   | 合规友好 | 审批慢     | 🇪🇺 欧美 |
+| [AgentaOS](https://agentaos.ai/pricing)     | 4.5% + €0.50 | 个人可开通，代缴税务 | 新平台     | 🌍 国际   |
 | [微信支付](https://pay.weixin.qq.com/)     | 0.6%         | 中国首选 | 仅中国     | 🇨🇳 中国 |
 | [支付宝](https://b.alipay.com/)            | 0.6%         | 中国首选 | 仅中国     | 🇨🇳 中国 |
 
