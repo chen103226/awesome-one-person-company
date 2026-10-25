@@ -593,6 +593,12 @@ Template: PHP templates
 | [V2EX](https://v2ex.com/)                    | Free  | ⭐⭐⭐⭐   | Technical products    |
 | [Xiaohongshu](https://xiaohongshu.com/)      | Free  | ⭐⭐⭐⭐   | Consumer goods/tools  |
 
+#### App Multi-Store Publishing
+
+| Tool | Description | License | Recommended For |
+| -------------------------------- | ------------------------------------------------------------ | -------------------------------- | ---------------------- |
+| [apkgo](https://github.com/KevinGong2013/apkgo) / [apkgo cloud](https://apkgo.baici.tech) | Upload once, publish concurrently to major mainland China Android app stores; also supports HarmonyOS and iOS (cloud) | PolyForm Noncommercial (CLI) | Android / HarmonyOS / iOS store publishing |
+
 ---
 
 ## 📚 Books & Courses
