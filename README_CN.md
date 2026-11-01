@@ -546,6 +546,8 @@ Template: PHP模板
 | [Make](https://make.com/)     | 可视化自动化 | 1K操作/月  | 复杂流程   |
 | [n8n](https://n8n.io/)        | 开源自动化   | 自托管免费 | 技术用户   |
 
+- **agent-qa** – [vostride](https://vostride.com)（面向独立开发者的自然语言网页、Android 和 iOS 测试，支持持久记忆与自我改进；CLI 免费，模型与可选设备服务费用另计，采用 FSL-1.1-ALv2。）
+
 ### 🎨 AI工具箱
 
 | 工具                               | 功能       | 定价       | 推荐指数   |
