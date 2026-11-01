@@ -546,6 +546,8 @@ Template: PHP templates
 | [Make](https://make.com/)     | Visual automation | 1K ops/month  | Complex workflows   |
 | [n8n](https://n8n.io/)        | Open source automation | Self-hosted free | Technical users |
 
+- **agent-qa** – [vostride](https://vostride.com) (Natural-language web, Android and iOS testing for solo developers, with persistent memory and self-improvement. Free CLI under FSL-1.1-ALv2; model inference and optional device-service costs apply.)
+
 ### 🎨 AI Toolbox
 
 | Tool                               | Function     | Pricing     | Rating     |
