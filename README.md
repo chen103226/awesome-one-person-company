@@ -592,6 +592,7 @@ Template: PHP模板
 | [即刻](https://okjike.com/)                  | 免费 | ⭐⭐⭐     | 中文社区        |
 | [V2EX](https://v2ex.com/)                    | 免费 | ⭐⭐⭐⭐   | 技术产品        |
 | [小红书](https://xiaohongshu.com/)           | 免费 | ⭐⭐⭐⭐   | 消费品/工具     |
+| [MEDIAPRONET](https://mediapronet.com/)      | 免费/付费 | -          | 初创产品/SaaS   |
 
 ---
 
