@@ -452,6 +452,9 @@ Platform: Windows
 ### 💻 开发技术栈
 
 #### 🔥 推荐组合（2026年主流）
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - macOS 菜单栏生产力 HUD（日历、倒计时、便签）
+- [Tape](https://github.com/Yvsleyen00941/Tape) - 原生 macOS 股票加密行情工具，常驻 Dock 旁未占用角落
+- [Rime](https://github.com/Yvsleyen00941/Rime) - 极简专注的 macOS 原生 Markdown 阅读与写作工具
 
 **全栈方案A: Vercel生态**
 
