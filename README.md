@@ -948,3 +948,6 @@ Made with ❤️ by [M&H](https://x.com/minghuachen22)
 [⬆ 返回顶部](#-awesome-one-person-company)
 
 </div>
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Mac桌面边角音乐播放状态显示，原生Swift开发。
