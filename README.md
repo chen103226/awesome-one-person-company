@@ -395,6 +395,7 @@ Platform: Windows
 
 - [IdeaLens](https://muselearner.com/) - 发现真实用户痛点，在构建之前了解用户真正需要什么。IdeaLens 监听真实讨论，提取痛点，标记用户画像和场景，并按紧急程度排序，帮助你构建用户真正需要的产品。
   ![IdeaLens](assets/images/idealens.png)
+- [EarlyLore](https://earlylore.com/) - 对照真实竞品、需求信号与切入点，在动手前验证产品想法。帮助独立开发者评估市场、定价与进入角度。
 
 使用**The Mom Test**原则：
 
