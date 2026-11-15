@@ -545,6 +545,7 @@ Template: PHP templates
 | [Zapier](https://zapier.com/) | Visual automation | 5 Zaps        | Non-technical users |
 | [Make](https://make.com/)     | Visual automation | 1K ops/month  | Complex workflows   |
 | [n8n](https://n8n.io/)        | Open source automation | Self-hosted free | Technical users |
+| [No Stairs Please MCP](https://nostairsplease.com/mcp) | Remote MCP server | Free | Touring musicians & talent buyers |
 
 ### 🎨 AI Toolbox
 
