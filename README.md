@@ -837,6 +837,10 @@ Template: PHP模板
 - 软著申请（App推荐）
 - 支付资质（个人企业化）
 
+### 📋 相关清单
+
+- [一人公司 AI 出海清单 / Awesome OPC Chuhai](https://github.com/OPCchuhai/awesome-opc-chuhai) - 面向华人一人公司的出海资源清单，覆盖大模型与 MCP、建站、跨境收款与获客。
+
 ---
 
 ## 🤝 贡献指南
